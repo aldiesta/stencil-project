@@ -1,0 +1,21 @@
+@import './env.scss';
+
+.kds {
+
+    -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+    
+    * {
+        box-sizing: border-box;
+    }
+
+    .fade {
+        transition-property: opacity;
+        transition-duration: 0.15s;
+        transition-timing-function: linear;
+        transition-delay: 0s;
+    }
+
+    .fade:not(.show) {
+        opacity: 0;
+    }
+}

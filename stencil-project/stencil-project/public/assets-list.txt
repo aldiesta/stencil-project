@@ -1,0 +1,344 @@
+icons/accordion/minus-icon.svg
+icons/accordion/plus-icon.svg
+icons/alert/alert-triangle.svg
+icons/alert/cross-icon.svg
+icons/breadcrumbs/ic-arrow-left.svg
+icons/breadcrumbs/ic-chevron-right.svg
+icons/breadcrumbs/ic-divider-vertical.svg
+icons/breadcrumbs/ic-more-horizontal.svg
+icons/cash-office/cancel-sign.svg
+icons/cash-office/checkmark-filled.svg
+icons/cash-office/checkmark-green-filled.svg
+icons/cash-office/checkmark-green.svg
+icons/cash-office/circle.svg
+icons/cash-office/generic-calendar.svg
+icons/cash-office/plus-sign-filled.svg
+icons/cash-office/plus-sign.svg
+icons/cash-office/register.svg
+icons/cash-office/reports.svg
+icons/checkbox/checkbox-checked.svg
+icons/checkbox/checkbox-mixed.svg
+icons/chevron-left-black.svg
+icons/chevron-right-black.svg
+icons/date-picker/calendar-icon.svg
+icons/date-picker/clock-icon.svg
+icons/date-picker/grey-calendar-icon.svg
+icons/date-picker/next-icon.svg
+icons/date-picker/previous-icon.svg
+icons/dropdown/dropdown-open-close-disabled.svg
+icons/dropdown/dropdown-open-close.svg
+icons/dropdown/dropdown-selected.svg
+icons/dropzone/cloud-upload-black-icon.svg
+icons/dropzone/cloud-upload-grey-icon.svg
+icons/dropzone/document-blank-icon.svg
+icons/footer/facebook-logo.svg
+icons/footer/instagram-logo.svg
+icons/footer/pinterest-logo.svg
+icons/footer/qr-code.svg
+icons/footer/twitter-logo.svg
+icons/footer/youtube-logo.svg
+icons/header/arrow-right-circle.svg
+icons/header/cart.svg
+icons/header/dollar-sign.svg
+icons/header/logo-kohls.svg
+icons/header/menu.svg
+icons/header/questionmark-circle.svg
+icons/header/search.svg
+icons/header/star-filled.svg
+icons/header/user.svg
+icons/help-dialogue/question-mark-circle-icon.svg
+icons/input-error-icon.svg
+icons/input-info-icon.svg
+icons/input-success-icon.svg
+icons/input-warning-icon.svg
+icons/list-item/demo-item-image.svg
+icons/list-item/trash-icon.svg
+icons/loading-spinner/spinner-lg-dark.svg
+icons/loading-spinner/spinner-lg-light.svg
+icons/loading-spinner/spinner-sm-dark.svg
+icons/loading-spinner/spinner-sm-light.svg
+icons/menu/checkmark-bold-icon.svg
+icons/menu/checkmark-icon.svg
+icons/menu/chevron-right-dark-grey.svg
+icons/modal/modal-close-icon.svg
+icons/number-input/minus-disabled-icon.svg
+icons/number-input/minus-icon.svg
+icons/number-input/plus-disabled-icon.svg
+icons/number-input/plus-icon.svg
+icons/pagination/next-icon.svg
+icons/pagination/previous-icon.svg
+icons/price-story/info-circle-icon.svg
+icons/scanner-input/scanner-input-switch-camera-selected.png
+icons/scanner-input/scanner-input-switch-camera.png
+icons/star-rating/star-filled.svg
+icons/star-rating/star.svg
+icons/stepper/active-icon.svg
+icons/stepper/checkmark-circle-icon.svg
+icons/stepper/complete-icon.svg
+icons/stepper/incomplete-icon.svg
+icons/tabbar/contract.svg
+icons/tabbar/expand.svg
+icons/tag/delete-icon.png
+icons/tag/delete-Icon.svg
+icons/tender-icons
+icons/tender-icons/amex-icon.svg
+icons/tender-icons/android-pay-icon.svg
+icons/tender-icons/discover-icon.svg
+icons/tender-icons/google-wallet-icon.svg
+icons/tender-icons/mastercard-icon.svg
+icons/tender-icons/paypal-icon.svg
+icons/tender-icons/stripe-icon.svg
+icons/tender-icons/visa-icon.svg
+icons/text-input/text-input-help-icon.svg
+icons/thumb-rating/empty-thumb-down-icon.svg
+icons/thumb-rating/empty-thumb-up-icon.svg
+icons/thumb-rating/filled-thumb-down-icon.svg
+icons/thumb-rating/filled-thumb-up-icon.svg
+kohls/app/banners/default-kohls-banner.png
+kohls/app/banners/my-kohls-back-to-school-banner.png
+kohls/app/banners/my-kohls-banner-back-to-school.svg
+kohls/app/banners/my-kohls-default-banner-4.svg
+kohls/app/banners/my-kohls-fall-banner.png
+kohls/app/banners/my-kohls-fall-banner.svg
+kohls/badges/Marketplace-Badge.png
+kohls/logos/kohls-logo-black.png
+kohls/logos/kohls-logo-black.svg
+kohls/logos/kohls-logo-white.png
+kohls/logos/kohls-logo-white.svg
+sephora/badges/Limited_Edition_Badge@2x.png
+sephora/badges/Limited_Time_Offer_Badge@2x.png
+sephora/badges/Sephora_Exclusive_Badge@2x.png
+sephora/badges/Sephora_New_Badge.jpg
+sephora/badges/Sephora_New_Badge.svg
+sephora/badges/Sephora_New_Badge@2x.png
+sephora/icons
+sephora/icons/highlights
+sephora/icons/highlights/alcohol_free.svg
+sephora/icons/highlights/allure.svg
+sephora/icons/highlights/benefit_color_hydrating.svg
+sephora/icons/highlights/benefit_color_longwearing.svg
+sephora/icons/highlights/benefit_color_waterproof.svg
+sephora/icons/highlights/benefit_hair_brassiness.svg
+sephora/icons/highlights/benefit_hair_color.svg
+sephora/icons/highlights/benefit_hair_curls.svg
+sephora/icons/highlights/benefit_hair_damage.svg
+sephora/icons/highlights/benefit_hair_fading.svg
+sephora/icons/highlights/benefit_hair_frizz.svg
+sephora/icons/highlights/benefit_hair_heat.svg
+sephora/icons/highlights/benefit_hair_hydration.svg
+sephora/icons/highlights/benefit_hair_light.svg
+sephora/icons/highlights/benefit_hair_medium.svg
+sephora/icons/highlights/benefit_hair_shine.svg
+sephora/icons/highlights/benefit_hair_strong.svg
+sephora/icons/highlights/benefit_hair_thinning.svg
+sephora/icons/highlights/benefit_hair_uv.svg
+sephora/icons/highlights/benefit_hair_volumizing.svg
+sephora/icons/highlights/benefit_lashes_curling.svg
+sephora/icons/highlights/benefit_lashes_volumizing.svg
+sephora/icons/highlights/benefit_plumping.svg
+sephora/icons/highlights/benefit.svg
+sephora/icons/highlights/cbd.svg
+sephora/icons/highlights/charity.svg
+sephora/icons/highlights/Clean_at_Sephora_TextRight.png
+sephora/icons/highlights/Clean_Planet_Positive_TextBottom.png
+sephora/icons/highlights/Clean_Planet_Positive_TextRight.png
+sephora/icons/highlights/CleanatSephora.svg
+sephora/icons/highlights/community_approved_2.svg
+sephora/icons/highlights/complexion_coverage_full.svg
+sephora/icons/highlights/complexion_coverage_light.svg
+sephora/icons/highlights/complexion_coverage_medium.svg
+sephora/icons/highlights/complexion.svg
+sephora/icons/highlights/concern_hair_oily.svg
+sephora/icons/highlights/concern_skin_acne.svg
+sephora/icons/highlights/concern_skin_antiage.svg
+sephora/icons/highlights/concern_skin_darkcircles.svg
+sephora/icons/highlights/concern_skin_darkspots.svg
+sephora/icons/highlights/concern_skin_dryness.svg
+sephora/icons/highlights/concern_skin_dullness.svg
+sephora/icons/highlights/concern_skin_lossfirmness.svg
+sephora/icons/highlights/concern_skin_pores.svg
+sephora/icons/highlights/concern_skin_redness.svg
+sephora/icons/highlights/cream.svg
+sephora/icons/highlights/cruelty-free.svg
+sephora/icons/highlights/customizable.svg
+sephora/icons/highlights/dark_circles_TextBottom.png
+sephora/icons/highlights/dark_circles_TextRight.png
+sephora/icons/highlights/finish_matte.svg
+sephora/icons/highlights/finish_metallic.svg
+sephora/icons/highlights/finish_natural.svg
+sephora/icons/highlights/finish_radiant.svg
+sephora/icons/highlights/finish_satin.svg
+sephora/icons/highlights/finish_shimmer.svg
+sephora/icons/highlights/finish_shine.svg
+sephora/icons/highlights/formulated_without.svg
+sephora/icons/highlights/fragrance_free.svg
+sephora/icons/highlights/fresh.svg
+sephora/icons/highlights/gift_purchase.svg
+sephora/icons/highlights/gluten_free.svg
+sephora/icons/highlights/hair_type_all.svg
+sephora/icons/highlights/hair_type_curly.svg
+sephora/icons/highlights/hair_type_straight.svg
+sephora/icons/highlights/hypoallergenic.svg
+sephora/icons/highlights/key_ingredient.svg
+sephora/icons/highlights/layerable.svg
+sephora/icons/highlights/liquid.svg
+sephora/icons/highlights/loose_powder.svg
+sephora/icons/highlights/oil_free.svg
+sephora/icons/highlights/pressed_powder.svg
+sephora/icons/highlights/recyclable.svg
+sephora/icons/highlights/redeem_full.svg
+sephora/icons/highlights/redeem_mini.svg
+sephora/icons/highlights/redeem.svg
+sephora/icons/highlights/refill_available.svg
+sephora/icons/highlights/sephora stands.svg
+sephora/icons/highlights/sephora_quality_TextBottom.png
+sephora/icons/highlights/sephora_quality_TextRight.png
+sephora/icons/highlights/skin_type_combination.svg
+sephora/icons/highlights/skin_type_dry.svg
+sephora/icons/highlights/skin_type_normal.svg
+sephora/icons/highlights/skin_type_oily.svg
+sephora/icons/highlights/spf_reedsafe.svg
+sephora/icons/highlights/spf.svg
+sephora/icons/highlights/stick.svg
+sephora/icons/highlights/sustainable.svg
+sephora/icons/highlights/unisex.svg
+sephora/icons/highlights/vegan.svg
+sephora/icons/highlights/warm_spicy.svg
+sephora/icons/highlights/woody_earthy.svg
+sephora/icons/main
+sephora/icons/main/account settings 24.svg
+sephora/icons/main/avatar 24 active.svg
+sephora/icons/main/avatar 24 gray.svg
+sephora/icons/main/avatar 24.svg
+sephora/icons/main/avatar 32 active.svg
+sephora/icons/main/avatar 32 inactive.svg
+sephora/icons/main/avatar 32.svg
+sephora/icons/main/basket + notification black 32.svg
+sephora/icons/main/basket + notification filled 32.svg
+sephora/icons/main/basket 24 black.svg
+sephora/icons/main/basket 24 filled.svg
+sephora/icons/main/Basket Notification.svg
+sephora/icons/main/beauty traits 24.svg
+sephora/icons/main/birthday_gift.svg
+sephora/icons/main/bookmark 20.svg
+sephora/icons/main/bookmark active 20.svg
+sephora/icons/main/buy it again 24.svg
+sephora/icons/main/checkmark 16.svg
+sephora/icons/main/community 24 active.svg
+sephora/icons/main/community 24 black.svg
+sephora/icons/main/community 24 gray.svg
+sephora/icons/main/community.svg
+sephora/icons/main/counter.svg
+sephora/icons/main/credit card 24.svg
+sephora/icons/main/credit card 32.svg
+sephora/icons/main/customer call 24 white.svg
+sephora/icons/main/customer chat 24 white.svg
+sephora/icons/main/eye hide 24 black.svg
+sephora/icons/main/eye hide 24 gray.svg
+sephora/icons/main/eye open 24 black.svg
+sephora/icons/main/eye open 24 gray.svg
+sephora/icons/main/filter 16.svg
+sephora/icons/main/flash 24 black.svg
+sephora/icons/main/flash 24 gray.svg
+sephora/icons/main/gift 24.svg
+sephora/icons/main/green 20.svg
+sephora/icons/main/grey 20.svg
+sephora/icons/main/grey dot.svg
+sephora/icons/main/home 24 - black.svg
+sephora/icons/main/home 24 filled.svg
+sephora/icons/main/home 24 gray.svg
+sephora/icons/main/ic-circle-flame.svg
+sephora/icons/main/ic-seasonal-savings-pig 2.svg
+sephora/icons/main/ic-seasonal-savings-pig.svg
+sephora/icons/main/in store 24 active.svg
+sephora/icons/main/in store 24 black.svg
+sephora/icons/main/in store 24 gray.svg
+sephora/icons/main/in store 24 white.svg
+sephora/icons/main/info 16.svg
+sephora/icons/main/info 20.svg
+sephora/icons/main/inspire 24 active.svg
+sephora/icons/main/inspire 24 black.svg
+sephora/icons/main/inspire 24 gray.svg
+sephora/icons/main/list ba recomendations 24.svg
+sephora/icons/main/lock 24.svg
+sephora/icons/main/love 12 active.svg
+sephora/icons/main/love 20 active.svg
+sephora/icons/main/love 20 default.svg
+sephora/icons/main/love 24 active.svg
+sephora/icons/main/love 24 default.svg
+sephora/icons/main/me 24 black.svg
+sephora/icons/main/me 24 filled.svg
+sephora/icons/main/me 24 gray.svg
+sephora/icons/main/members 24.svg
+sephora/icons/main/messages 24.svg
+sephora/icons/main/milestone.svg
+sephora/icons/main/notifications 24.svg
+sephora/icons/main/offers 24 active.svg
+sephora/icons/main/offers 24 black.svg
+sephora/icons/main/offers 24 gray.svg
+sephora/icons/main/online only 24 black.svg
+sephora/icons/main/online only 24 gray.svg
+sephora/icons/main/orders 24.svg
+sephora/icons/main/photos.svg
+sephora/icons/main/poc 33.svg
+sephora/icons/main/points for cash 32.svg
+sephora/icons/main/points for percentage.svg
+sephora/icons/main/points.svg
+sephora/icons/main/reply 24.svg
+sephora/icons/main/reservation 24.svg
+sephora/icons/main/rewards bazaar 32.svg
+sephora/icons/main/SBI_Icon_Beauty Insider Cash_Red.svg
+sephora/icons/main/SBI_Icon_Dollar Savings Offer_Red.svg
+sephora/icons/main/SBI_Icon_Exclusive Events_Red.svg
+sephora/icons/main/SBI_Icon_Exclusive Gifts_Red.svg
+sephora/icons/main/SBI_Icon_Free Birthday Gift_Red.svg
+sephora/icons/main/SBI_Icon_Point Multiplier Event_Red.svg
+sephora/icons/main/SBI_Icon_Points for Discount Events_Red.svg
+sephora/icons/main/SBI_Icon_Points for Services_Red.svg
+sephora/icons/main/SBI_Icon_Seasonal Savings Events_Red.svg
+sephora/icons/main/settings 24.svg
+sephora/icons/main/shop 24 black.svg
+sephora/icons/main/shop 24 gray.svg
+sephora/icons/main/shop24 filled.svg
+sephora/icons/main/store 24 active.svg
+sephora/icons/main/store 24 black.svg
+sephora/icons/main/store 24 gray.svg
+sephora/icons/main/truck 24 black.svg
+sephora/icons/main/truck 24 grey.svg
+sephora/icons/main/warning 16.svg
+sephora/icons/main/warning 20.svg
+sephora/logos/logo-alternate-horiz-k.svg
+sephora/logos/logo-alternate-horiz-white.svg
+sephora/logos/logo-alternate-introducing-horiz-k.svg
+sephora/logos/logo-alternate-introducing-horiz-white.svg
+sephora/logos/logo-alternate-introducing-stacked-k.svg
+sephora/logos/logo-alternate-introducing-stacked-white.svg
+sephora/logos/logo-alternate-stacked-k.svg
+sephora/logos/logo-alternate-stacked-white.svg
+sephora/logos/logo-beauty-sephora-1x.png
+sephora/logos/logo-beauty-sephora-2x.png
+sephora/logos/logo-beauty-sephora-3x.png
+sephora/logos/logo-beauty-sephora.svg
+sephora/logos/logo-BI-Insider.svg
+sephora/logos/logo-BI-Rouge.svg
+sephora/logos/logo-BI-VIB.svg
+sephora/logos/logo-kohls-sephora-horiz-k.svg
+sephora/logos/logo-Kohls-Sephora-Horiz-white.svg
+sephora/logos/logo-kohls-sephora-stacked-k.svg
+sephora/logos/logo-kohls-sephora-stacked-white.svg
+sephora/logos/logo-launch-introducing-horiz-k.svg
+sephora/logos/logo-launch-introducing-horiz-white.svg
+sephora/logos/logo-launch-introducing-stacked-k.svg
+sephora/logos/logo-launch-introducing-stacked-white.svg
+sephora/logos/logo-pre-launch-horiz-k.svg
+sephora/logos/logo-pre-launch-horiz-white.svg
+sephora/logos/logo-pre-launch-stacked-k.svg
+sephora/logos/logo-pre-launch-stacked-white.svg
+sephora/logos/logo-sephora-beauty-insider-k.svg
+sephora/logos/logo-sephora-beauty-insider-stacked-k.svg
+sephora/logos/logo-sephora-beauty-insider-stacked.svg
+sephora/logos/logo-sephora-beauty-insider.svg
+sephora/tags/large-k.svg
+sephora/tags/large.svg
+sephora/tags/small-k.svg
+sephora/tags/small.svg
