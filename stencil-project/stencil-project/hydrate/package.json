@@ -1,0 +1,6 @@
+{
+  "name": "@kohls/kds-web-core/hydrate",
+  "description": "KdsWebCore component hydration app.",
+  "main": "index.js",
+  "types": "index.d.ts"
+}

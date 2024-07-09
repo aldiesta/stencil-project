@@ -1,0 +1,21 @@
+.my-component {
+  height: 200px;
+  width: 200px;
+  // background-color: rebeccapurple;
+  color: white;
+  font-size: 32px;
+
+  &.rebeccapurple {
+    background-color: rebeccapurple;
+  }
+
+  &:hover { 
+    background-color: blue;
+  }
+}
+
+// .my-component:hover {
+//   background-color: blue;
+// }
+
+

@@ -1,0 +1,72 @@
+import { Meta, Story, Canvas, ArgsTable } from '@storybook/addon-docs';
+import { MyComponentVariantEnum } from './my-component-enum';
+
+export const componentEvents = {
+  "dismissAlert": "on close of the alert",
+  "testEvent": "for testing"
+}
+
+<Meta 
+  title="components/my-component"
+    addParameters={{
+    actions: {
+      handles: Object.keys(componentEvents),
+    },
+  }} 
+/>
+
+## Basic
+
+<Canvas>
+  <Story name="Basic">
+    {() => `
+      <my-component first='Billy' middle='Bob' last='Joe'></my-component>
+    `}
+   </Story>
+</Canvas>
+
+## Dynamic
+<Canvas>
+  <Story name="Dynamic" args={{
+      first: 'Billy',
+      middle: 'Bob',
+      last: 'Joe',
+      backgroundColor: 'rebeccapurple',
+      variant: MyComponentVariantEnum.Filled
+  }}>
+    {(args) => `
+      <my-component 
+        first='${args.first}' 
+        middle='${args.middle}' 
+        last='${args.last}' 
+        background-color='${args.backgroundColor}'
+        variant='${args.variant}'
+        >
+      </my-component>
+    `}
+   </Story>
+</Canvas>
+
+## Dynamic - Outlined
+
+<Canvas>
+  <Story name="Dynamic - Outlined" args={{
+      first: 'Billy',
+      middle: 'Bob',
+      last: 'Joe',
+      backgroundColor: 'rebeccapurple',
+      variant: MyComponentVariantEnum.Outlined
+  }}>
+    {(args) => `
+      <my-component 
+        first='${args.first}' 
+        middle='${args.middle}' 
+        last='${args.last}' 
+        background-color='${args.backgroundColor}'
+        variant='${args.variant}'
+        >
+      </my-component>
+    `}
+   </Story>
+</Canvas>
+
